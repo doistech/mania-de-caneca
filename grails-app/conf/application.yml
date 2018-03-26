@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: mania-de-caneca
+        defaultPackage: br.com.maniadecaneca
 info:
     app:
         name: '@info.app.name@'

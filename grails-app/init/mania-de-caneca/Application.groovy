@@ -1,4 +1,4 @@
-package mania-de-caneca
+package br.com.maniadecaneca
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
