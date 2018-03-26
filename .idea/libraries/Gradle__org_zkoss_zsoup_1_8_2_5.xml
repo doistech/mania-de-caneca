@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zkoss:zsoup:1.8.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zkoss/zsoup/1.8.2.5/7e0a355052c9403ef51d91d315aeaca76967afcf/zsoup-1.8.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zkoss/zsoup/1.8.2.5/19ced2b928f26eb45a02cc426bc60e420feba694/zsoup-1.8.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

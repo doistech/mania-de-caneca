@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zkoss.zk:zkbind:8.0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zkoss.zk/zkbind/8.0.1.1/170d07c964f760a8eb60455457595ad1564a373c/zkbind-8.0.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zkoss.zk/zkbind/8.0.1.1/9f8ead2215b027e9182ddefab570d1d1dcaaa2e3/zkbind-8.0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zkoss.zk:zkplus:8.0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zkoss.zk/zkplus/8.0.1.1/29788481a741ab413cec326da4bead5fa94fb48a/zkplus-8.0.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zkoss.zk/zkplus/8.0.1.1/61f50d4d9294428ed21a792ac4d098a9d9b279f5/zkplus-8.0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
