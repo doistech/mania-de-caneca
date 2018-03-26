@@ -1,4 +1,4 @@
-package ppesjPortal
+package mania-de-caneca
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
